@@ -8,10 +8,8 @@
 	<a href="https://join.slack.com/t/paradedbcommunity/shared_invite/zt-217mordsh-ielS6BiZf7VW3rqKBFgAlQ">Community Slack</a>
 	<span> &bull; </span>
 	<a href="https://github.com/paradedb/paradedb/blob/dev/CONTRIBUTING.md">Contribute</a>
+<img width="600px" alt="image" src="https://github.com/paradedb/paradedb/raw/dev/docs/logo/readme.svg">
 </h3>
-
-<img width="368px" alt="image" src="https://github.com/paradedb/paradedb/raw/dev/docs/logo/readme.svg">
-
 </br>
 </br>
 
