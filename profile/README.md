@@ -3,9 +3,13 @@
 <h3 align="center">
 	<a href="https://www.paradedb.com">Website</a>
 	<span> &bull; </span>
-	<a href="https://docs.paradedb.com/quickstart">Docs</a>
+	<a href="https://docs.paradedb.com">Docs</a>
 	<span> &bull; </span>
 	<a href="https://join.slack.com/t/paradedbcommunity/shared_invite/zt-217mordsh-ielS6BiZf7VW3rqKBFgAlQ">Community Slack</a>
+	<span> &bull; </span>
+        <a href="https://blog.paradedb.com">Blog</a>
+	<span> &bull; </span>
+	<a href="https://docs.paradedb.com/changelog/">Changelog</a>
 	<span> &bull; </span>
 	<a href="https://github.com/paradedb/paradedb/blob/dev/CONTRIBUTING.md">Contribute</a>
 <img width="600px" alt="image" src="https://github.com/paradedb/paradedb/raw/dev/docs/logo/readme.svg">
@@ -13,18 +17,19 @@
 </br>
 </br>
 
-Hi there! Welcome to the ParadeDB GitHub organization. [ParadeDB](https://paradedb.com) is an ElasticSearch alternative built on PostgreSQL, engineered for lightning-fast full text, similarity, and hybrid search. We're part of
-the Postgres-centric data stack movement and are building the easiest real-time search & analytics solution for Postgres users worldwide.
+---
+
+Hi there! Welcome to ParadeDB. [ParadeDB](https://paradedb.com) is an Elasticsearch alternative built on Postgres. We're modernizing the features of Elasticsearch's product suite, starting with real-time search and analytics. We are part of the Postgres-centric data stack movement and are building enterprise-grade search (full-text, vector, and hybrid) and analytics (local and over data lakes) for Postgres users.
 
 ## 🤝 Contribute
 
-We're an open-source-loving community, and contributions are always welcome! Whether it's by fixing bugs, enhancing documentation, proposing new features, or spreading the word, every contribution counts.
+We love open-source, and contributions are always welcome! Whether it's by fixing bugs, enhancing documentation, proposing new features, or spreading the word, every contribution counts.
 
 See [CONTRIBUTING.md](https://github.com/paradedb/paradedb/blob/dev/CONTRIBUTING.md) for guidelines.
 
-Look for issues labeled [good first issue](https://github.com/paradedb/paradedb/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to start your journey.
+Look for issues labelled [good first issue](https://github.com/paradedb/paradedb/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to start your journey.
 
-Want to get involved directly? Check out our [careers page](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00?pvs=4). We're looking forward to hearing from you! 
+Want to get involved directly? Check out our [careers page](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00?pvs=4). We look forward to hearing from you! 
 
 ## 💬 Community
 
@@ -34,6 +39,6 @@ Ask a question on our [GitHub Discussions](https://github.com/orgs/paradedb/disc
 
 ## 💌 Contact
 
-For partnership, sponsorship, or media inquiries, please contact us at [hello@paradedb.com](mailto:hello@paradedb.com).
+For partnership, sponsorship, or media inquiries, please get in touch with us at [hello@paradedb.com](mailto:hello@paradedb.com).
 
-Happy searching!
+We can't wait to see what you'll build with ParadeDB.
