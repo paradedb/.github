@@ -1,23 +1,19 @@
-<img width="600px" alt="image" src="https://github.com/paradedb/paradedb/raw/dev/docs/logo/readme.svg">
+<h1 align="center">
+  <a href="https://paradedb.com"><img src="https://github.com/paradedb/paradedb/raw/dev/docs/logo/readme.svg" alt="ParadeDB"></a>
+<br>
+</h1>
 
-<h1 align="center"> Welcome to ParadeDB 👋</h1> 
+<p align="center">
+  <b>Postgres for Search and Analytics</b> <br />
+</p>
 
 <h3 align="center">
-	<a href="https://www.paradedb.com">Website</a>
-	<span> &bull; </span>
-	<a href="https://docs.paradedb.com">Docs</a>
-	<span> &bull; </span>
-	<a href="https://join.slack.com/t/paradedbcommunity/shared_invite/zt-217mordsh-ielS6BiZf7VW3rqKBFgAlQ">Community Slack</a>
-	<span> &bull; </span>
-        <a href="https://blog.paradedb.com">Blog</a>
-	<span> &bull; </span>
-	<a href="https://docs.paradedb.com/changelog/">Changelog</a>
-	<span> &bull; </span>
-	<a href="https://github.com/paradedb/paradedb/blob/dev/CONTRIBUTING.md">Contribute</a>
-<img width="600px" alt="image" src="https://github.com/paradedb/paradedb/raw/dev/docs/logo/readme.svg">
+  <a href="https://paradedb.com">Website</a> &bull;
+  <a href="https://docs.paradedb.com">Docs</a> &bull;
+  <a href="https://join.slack.com/t/paradedbcommunity/shared_invite/zt-2lkzdsetw-OiIgbyFeiibd1DG~6wFgTQ">Community</a> &bull;
+  <a href="https://paradedb.com/blog">Blog</a> &bull;
+  <a href="https://docs.paradedb.com/changelog/">Changelog</a>
 </h3>
-</br>
-</br>
 
 ---
 
