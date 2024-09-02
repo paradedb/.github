@@ -1,3 +1,5 @@
+<img width="600px" alt="image" src="https://github.com/paradedb/paradedb/raw/dev/docs/logo/readme.svg">
+
 <h1 align="center"> Welcome to ParadeDB 👋</h1> 
 
 <h3 align="center">
@@ -23,7 +25,7 @@ Hi there! Welcome to ParadeDB. [ParadeDB](https://paradedb.com) is an Elasticsea
 
 ## 🤝 Contribute
 
-We love open-source, and contributions are always welcome! Whether it's by fixing bugs, enhancing documentation, proposing new features, or spreading the word, every contribution counts.
+We love open-source, and contributions are always welcome! Whether you fix bugs, enhance documentation, propose new features, or spread the word, every contribution counts.
 
 See [CONTRIBUTING.md](https://github.com/paradedb/paradedb/blob/dev/CONTRIBUTING.md) for guidelines.
 
@@ -39,6 +41,6 @@ Ask a question on our [GitHub Discussions](https://github.com/orgs/paradedb/disc
 
 ## 💌 Contact
 
-For partnership, sponsorship, or media inquiries, please get in touch with us at [hello@paradedb.com](mailto:hello@paradedb.com).
+For partnership, sponsorship, or media inquiries, please email us at [hello@paradedb.com](mailto:hello@paradedb.com).
 
 We can't wait to see what you'll build with ParadeDB.
