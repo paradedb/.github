@@ -31,7 +31,7 @@ Want to get involved directly? Check out our [careers page](https://paradedb.not
 
 ## 💬 Community
 
-Join our [Slack Community](https://join.slack.com/t/paradedbcommunity/shared_invite/zt-217mordsh-ielS6BiZf7VW3rqKBFgAlQ).
+Join our [Slack Community](https://join.slack.com/t/paradedbcommunity/shared_invite/zt-2lkzdsetw-OiIgbyFeiibd1DG~6wFgTQ).
 
 Ask a question on our [GitHub Discussions](https://github.com/orgs/paradedb/discussions).
 
