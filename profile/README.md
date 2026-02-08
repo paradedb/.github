@@ -1,21 +1,29 @@
+<!-- ParadeDB: Postgres for Search and Analytics -->
 <h1 align="center">
-  <a href="https://paradedb.com"><img src="https://github.com/paradedb/paradedb/raw/dev/docs/logo/readme.svg" alt="ParadeDB"></a>
+  <a href="https://paradedb.com"><img src="https://github.com/paradedb/paradedb/raw/main/docs/logo/readme.svg" alt="ParadeDB"></a>
 <br>
 </h1>
 
 <p align="center">
-  <b>Postgres for Search and Analytics</b> <br />
+  <b>Postgres for Search and Analytics</b><br/>
 </p>
 
 <h3 align="center">
   <a href="https://paradedb.com">Website</a> &bull;
   <a href="https://docs.paradedb.com">Docs</a> &bull;
   <a href="https://join.slack.com/t/paradedbcommunity/shared_invite/zt-32abtyjg4-yoYoi~RPh9MSW8tDbl0BQw">Community</a> &bull;
-  <a href="https://paradedb.com/blog">Blog</a> &bull;
+  <a href="https://paradedb.com/blog/">Blog</a> &bull;
   <a href="https://docs.paradedb.com/changelog/">Changelog</a>
 </h3>
 
 ---
+
+You want better search, not the burden of Elasticsearch. [ParadeDB](https://paradedb.com) is the modern Elastic alternative built as a Postgres extension.
+
+
+
+
+
 
 Hi there! Welcome to ParadeDB. [ParadeDB](https://paradedb.com) is an Elasticsearch alternative built on Postgres. We're modernizing the features of Elasticsearch's product suite, starting with real-time search and analytics. We are part of the Postgres-centric data stack movement and are building enterprise-grade search (full-text, vector, and hybrid) and analytics (local and over data lakes) for Postgres users.
 
