@@ -18,48 +18,40 @@
 
 ---
 
-You want better search, not the burden of Elasticsearch. [ParadeDB](https://paradedb.com) is the modern Elastic alternative built as a Postgres extension. ParadeDB brings everything you need from a modern search engine into Postgres, including text, hybrid, and faceted search. Because it is just Postgres, it can run as a logical replica of any managed Postgres instance or be installed within any self-hosted Postgres cluster.
+You want better search, not the burden of Elasticsearch.
 
-## Who's Using ParadeDB?
+[ParadeDB](https://paradedb.com) is the modern Elasticsearch alternative built as a **Postgres extension**. It brings full-text, hybrid, and faceted search directly into PostgreSQL — no separate search system required.
 
-Explore [success stories](https://paradedb.com/customers) to see more.
+Because ParadeDB is just Postgres, it can run as a logical replica of any managed Postgres instance or be installed within any self-hosted Postgres cluster. No new infrastructure, no sync pipelines, no eventual consistency.
 
 ## Getting Started
 
+- [Installation guide](https://docs.paradedb.com/documentation/getting-started/install)
+- [Architecture overview](http://docs.paradedb.com/welcome/architecture)
+- [Roadmap](https://docs.paradedb.com/welcome/roadmap)
+- [Full documentation](https://docs.paradedb.com)
 
+## Who's Using ParadeDB?
 
-[Read the documentation to get started](https://docs.paradedb.com/documentation/getting-started/install).
-
-https://docs.paradedb.com/documentation/getting-started/install
-
-https://docs.paradedb.com/documentation/getting-started/install
-
-
-
-http://docs.paradedb.com/welcome/architecture
+Companies use ParadeDB to replace Elasticsearch, OpenSearch, and custom search stacks while keeping Postgres as their system of record. Explore [customer stories](https://paradedb.com/customers) to learn more.
 
 ## Contributing
 
+We welcome contributions of all kinds — code, docs, bug reports, and feature discussions. Start by visiting [paradedb/paradedb](https://github.com/paradedb/paradedb) on GitHub. If you're planning a larger contribution, we recommend opening a discussion first and joining our [Community Slack](https://join.slack.com/t/paradedbcommunity/shared_invite/zt-2lkzdsetw-OiIgbyFeiibd1DG~6wFgTQ).
 
-## 💜 Community
+## Community
 
-Join us on [Slack Community](https://join.slack.com/t/paradedbcommunity/shared_invite/zt-2lkzdsetw-OiIgbyFeiibd1DG~6wFgTQ) to chat with the ParadeDB community, share, or ask questions.
+Join the ParadeDB community to ask questions, share ideas, and help shape the roadmap.
 
-- Contribute to [ParadeDB on GitHub](https://github.com/paradedb/paradedb) by adding to the documentation, filing bug reports, or opening Pull Requests with contributions.
+- [Slack](https://join.slack.com/t/paradedbcommunity/shared_invite/zt-2lkzdsetw-OiIgbyFeiibd1DG~6wFgTQ) — Chat with the team and community
+- [GitHub Discussions](https://github.com/orgs/paradedb/discussions) — Ask questions and share ideas
+- [Blog](https://paradedb.com/blog/) — Engineering deep-dives and announcements
+- [X / Twitter](https://x.com/paradedb) — Follow for updates
 
-- Follow the [ParadeDB blog](https://paradedb.com/blog/) for engineering deep-dives and announcements.
+## Careers
 
-- Ask a question on our [GitHub Discussions](https://github.com/orgs/paradedb/discussions).
+Want to work on Postgres internals, search engines, and distributed systems? Check out our [open roles](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00?pvs=4).
 
-- Follow ParadeDB on [X](https://x.com/paradedb) for updates.
+## Contact
 
-
-
-
-Want to get involved directly? Check out our [careers page](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00?pvs=4). We look forward to hearing from you! 
-
-## Support
-
-For sales, partnership, sponsorship, or media inquiries, please email us at [hello@paradedb.com](mailto:hello@paradedb.com).
-
-We can't wait to see what you'll build with ParadeDB.
+For sales, partnerships, sponsorships, or media inquiries, email us at [hello@paradedb.com](mailto:hello@paradedb.com).
