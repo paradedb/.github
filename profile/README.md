@@ -18,14 +18,55 @@
 
 ---
 
-You want better search, not the burden of Elasticsearch. [ParadeDB](https://paradedb.com) is the modern Elastic alternative built as a Postgres extension.
+You want better search, not the burden of Elasticsearch. [ParadeDB](https://paradedb.com) is the modern Elastic alternative built as a Postgres extension. ParadeDB brings everything you need from a modern search engine into Postgres, including text, hybrid, and faceted search. Because it is just Postgres, it can run as a logical replica of any managed Postgres or be installed inside any self-hosted Postgres.
+
+## Who's Using ParadeDB?
+
+Explore [success stories](https://paradedb.com/customers) to see more.
+
+## Getting Started
+
+
+[Read the documentation to get started](https://neon.com/docs/introduction).
+
+https://docs.paradedb.com/documentation/getting-started/install
+
+
+## Contributing
+
+
+## 💜 Community
+
+Join us on [Slack Community](https://join.slack.com/t/paradedbcommunity/shared_invite/zt-2lkzdsetw-OiIgbyFeiibd1DG~6wFgTQ) to chat with the ParadeDB community, share, or ask questions.
+
+- Follow the [ParadeDB blog](https://paradedb.com/blog/) for engineering deep-dives and announcements.
+
+- Follow ParadeDB on [X](https://x.com/paradedb) for updates.
+
+## Support
+
+
+
+- Contribute to ParadeDB on GitHub by adding to the documentation, filing bug reports in Neon issues, or opening Pull Requests with contributions.
+
+
+
+## Repositories
+
+This GitHub organization contains repos that are _officially_ maintained by [Neon](https://neon.tech):
+
+<!--
+This is a list of packages we want users to contribute to and interact with.
+
+-->
+
+- [neondatabase/neon](https://github.com/neondatabase/neon): The Neon storage engine.
+- [neondatabase/serverless](https://github.com/neondatabase/serverless): Neon's serverless PostgreSQL driver for JavaScript and TypeScript
+- [neondatabase/neonctl](https://github.com/neondatabase/neonctl): The Neon CLI is a command-line interface that lets you manage Neon Serverless Postgres directly from the terminal.
 
 
 
 
-
-
-Hi there! Welcome to ParadeDB. [ParadeDB](https://paradedb.com) is an Elasticsearch alternative built on Postgres. We're modernizing the features of Elasticsearch's product suite, starting with real-time search and analytics. We are part of the Postgres-centric data stack movement and are building enterprise-grade search (full-text, vector, and hybrid) and analytics (local and over data lakes) for Postgres users.
 
 ## 🤝 Contribute
 
@@ -36,10 +77,6 @@ See [CONTRIBUTING.md](https://github.com/paradedb/paradedb/blob/dev/CONTRIBUTING
 Look for issues labelled [good first issue](https://github.com/paradedb/paradedb/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to start your journey.
 
 Want to get involved directly? Check out our [careers page](https://paradedb.notion.site/ParadeDB-Job-Board-50b45af7a2834e22958b171ffa008e00?pvs=4). We look forward to hearing from you! 
-
-## 💬 Community
-
-Join our [Slack Community](https://join.slack.com/t/paradedbcommunity/shared_invite/zt-2lkzdsetw-OiIgbyFeiibd1DG~6wFgTQ).
 
 Ask a question on our [GitHub Discussions](https://github.com/orgs/paradedb/discussions).
 
