@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <b>Postgres for Search and Analytics</b><br/>
+  <b>Simple, Elastic-quality search for Postgres</b><br/>
 </p>
 
 <h3 align="center">
