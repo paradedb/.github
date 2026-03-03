@@ -27,7 +27,7 @@ Because ParadeDB is just Postgres, it can run as a logical replica of any manage
 ## 🚀 Getting Started
 
 - [Installation guide](https://docs.paradedb.com/documentation/getting-started/install)
-- [Architecture overview](http://docs.paradedb.com/welcome/architecture)
+- [Architecture overview](https://docs.paradedb.com/welcome/architecture)
 - [Roadmap](https://docs.paradedb.com/welcome/roadmap)
 - [Full documentation](https://docs.paradedb.com)
 
@@ -50,7 +50,7 @@ Join the ParadeDB community to ask questions, share ideas, and help shape the ro
 
 ## 🖥️ Careers
 
-Want to work on Postgres internals, search engines, and distributed systems? Check out our [open roles](https://paradedb.notion.site/).
+Want to work on Postgres internals, search engines, and distributed systems? Reach out at [hello@paradedb.com](mailto:hello@paradedb.com) with your resume or GitHub profile.
 
 ## 💬 Contact
 
