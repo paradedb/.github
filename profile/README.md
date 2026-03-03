@@ -1,20 +1,12 @@
-<!-- ParadeDB: Postgres for Search and Analytics -->
-<h1 align="center">
-  <a href="https://paradedb.com"><img src="https://github.com/paradedb/paradedb/raw/main/docs/logo/readme.svg" alt="ParadeDB"></a>
-<br>
-</h1>
+# ParadeDB
 
-<p align="center">
-  <b>Simple, Elastic-quality search for Postgres</b><br/>
-</p>
+**Simple, Elastic-quality search for Postgres**
 
-<h3 align="center">
-  <a href="https://paradedb.com">Website</a> &bull;
-  <a href="https://docs.paradedb.com">Docs</a> &bull;
-  <a href="https://join.slack.com/t/paradedbcommunity/shared_invite/zt-32abtyjg4-yoYoi~RPh9MSW8tDbl0BQw">Community</a> &bull;
-  <a href="https://paradedb.com/blog/">Blog</a> &bull;
-  <a href="https://docs.paradedb.com/changelog/">Changelog</a>
-</h3>
+[Website](https://paradedb.com) •
+[Docs](https://docs.paradedb.com) •
+[Community](https://join.slack.com/t/paradedbcommunity/shared_invite/zt-2lkzdsetw-OiIgbyFeiibd1DG~6wFgTQ) •
+[Blog](https://paradedb.com/blog/) •
+[Changelog](https://docs.paradedb.com/changelog/)
 
 ---
 
@@ -27,7 +19,7 @@ Because ParadeDB is just Postgres, it can run as a logical replica of any manage
 ## 🚀 Getting Started
 
 - [Installation guide](https://docs.paradedb.com/documentation/getting-started/install)
-- [Architecture overview](http://docs.paradedb.com/welcome/architecture)
+- [Architecture overview](https://docs.paradedb.com/welcome/architecture)
 - [Roadmap](https://docs.paradedb.com/welcome/roadmap)
 - [Full documentation](https://docs.paradedb.com)
 
@@ -50,7 +42,7 @@ Join the ParadeDB community to ask questions, share ideas, and help shape the ro
 
 ## 🖥️ Careers
 
-Want to work on Postgres internals, search engines, and distributed systems? Check out our [open roles](https://paradedb.notion.site/).
+Want to work on Postgres internals, search engines, and distributed systems? Reach out at [hello@paradedb.com](mailto:hello@paradedb.com) with your resume or GitHub profile.
 
 ## 💬 Contact
 
