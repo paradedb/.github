@@ -11,7 +11,7 @@
 <h3 align="center">
   <a href="https://paradedb.com">Website</a> &bull;
   <a href="https://docs.paradedb.com">Docs</a> &bull;
-  <a href="https://join.slack.com/t/paradedbcommunity/shared_invite/zt-32abtyjg4-yoYoi~RPh9MSW8tDbl0BQw">Community</a> &bull;
+  <a href="https://paradedb.com/slack/">Community</a> &bull;
   <a href="https://paradedb.com/blog/">Blog</a> &bull;
   <a href="https://docs.paradedb.com/changelog/">Changelog</a>
 </h3>
@@ -37,13 +37,13 @@ Companies use ParadeDB to replace Elasticsearch, OpenSearch, and custom search s
 
 ## 🌱 Contributing
 
-We welcome contributions of all kinds — code, docs, bug reports, and feature discussions. Start by visiting [paradedb/paradedb](https://github.com/paradedb/paradedb) on GitHub. If you're planning a larger contribution, we recommend opening a discussion first and joining our [Community Slack](https://join.slack.com/t/paradedbcommunity/shared_invite/zt-2lkzdsetw-OiIgbyFeiibd1DG~6wFgTQ).
+We welcome contributions of all kinds — code, docs, bug reports, and feature discussions. Start by visiting [paradedb/paradedb](https://github.com/paradedb/paradedb) on GitHub. If you're planning a larger contribution, we recommend opening a discussion first and joining our [Community Slack](https://paradedb.com/slack/).
 
 ## 💜 Community
 
 Join the ParadeDB community to ask questions, share ideas, and help shape the roadmap.
 
-- [Slack](https://join.slack.com/t/paradedbcommunity/shared_invite/zt-2lkzdsetw-OiIgbyFeiibd1DG~6wFgTQ) — Chat with the team and community
+- [Slack](https://paradedb.com/slack/) — Chat with the team and community
 - [GitHub Discussions](https://github.com/orgs/paradedb/discussions) — Ask questions and share ideas
 - [Blog](https://paradedb.com/blog/) — Engineering deep-dives and announcements
 - [X / Twitter](https://x.com/paradedb) — Follow for updates
