@@ -1,11 +1,17 @@
-<!-- ParadeDB: Postgres for Search and Analytics -->
 <h1 align="center">
-  <a href="https://paradedb.com"><img src="https://github.com/paradedb/paradedb/raw/main/docs/logo/readme.svg" alt="ParadeDB"></a>
-<br>
+  <a href="https://paradedb.com">
+    <picture align=center>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/paradedb/paradedb/raw/main/docs/logo/paradedb-logo-dark-large.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/paradedb/paradedb/raw/main/docs/logo/paradedb-logo-light-large.svg">
+      <img alt="The ParadeDB logo." src="https://github.com/paradedb/paradedb/raw/main/docs/logo/paradedb-logo-light-large.svg">
+    </picture>
+  </a>
+  <br>
 </h1>
 
 <p align="center">
-  <b>Simple, Elastic-quality search for Postgres</b><br/>
+  <b>Search without a second system.</b><br/>
+  One Postgres for your application data, full-text search, vector retrieval, and aggregations.
 </p>
 
 <h3 align="center">
@@ -20,7 +26,7 @@
 
 You want better search, not the burden of Elasticsearch.
 
-[ParadeDB](https://paradedb.com) is the modern Elasticsearch alternative built as a **Postgres extension**. It brings full-text, hybrid, and faceted search directly into PostgreSQL — no separate search system required.
+[ParadeDB](https://paradedb.com) is the modern Elasticsearch alternative built as a **Postgres extension**. It adds full-text search, vector retrieval, and aggregations directly to PostgreSQL — no second system required.
 
 Because ParadeDB is just Postgres, it can run as a logical replica of any managed Postgres instance or be installed within any self-hosted Postgres cluster. No new infrastructure, no sync pipelines, no eventual consistency.
 
