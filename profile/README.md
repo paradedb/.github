@@ -16,10 +16,10 @@
 
 <h3 align="center">
   <a href="https://paradedb.com">Website</a> &bull;
-  <a href="https://docs.paradedb.com">Docs</a> &bull;
+  <a href="https://paradedb.com/docs">Docs</a> &bull;
   <a href="https://paradedb.com/slack/">Community</a> &bull;
   <a href="https://paradedb.com/blog/">Blog</a> &bull;
-  <a href="https://docs.paradedb.com/changelog/">Changelog</a>
+  <a href="https://paradedb.com/docs/changelog/">Changelog</a>
 </h3>
 
 ---
@@ -32,10 +32,10 @@ Because ParadeDB is just Postgres, it can run as a logical replica of any manage
 
 ## 🚀 Getting Started
 
-- [Installation guide](https://docs.paradedb.com/documentation/getting-started/install)
-- [Architecture overview](https://docs.paradedb.com/welcome/architecture)
-- [Roadmap](https://docs.paradedb.com/welcome/roadmap)
-- [Full documentation](https://docs.paradedb.com)
+- [Installation guide](https://paradedb.com/docs/documentation/getting-started/install)
+- [Architecture overview](https://paradedb.com/docs/welcome/architecture)
+- [Roadmap](https://paradedb.com/docs/welcome/roadmap)
+- [Full documentation](https://paradedb.com/docs)
 
 ## 🤝 Who's Using ParadeDB?
 
