@@ -10,32 +10,30 @@
 </h1>
 
 <p align="center">
-  <b>Search without a second system.</b><br/>
+  <b>Just use Postgres.</b><br/>
   One Postgres for your application data, full-text search, vector retrieval, and aggregations.
 </p>
 
 <h3 align="center">
   <a href="https://paradedb.com">Website</a> &bull;
-  <a href="https://paradedb.com/docs">Docs</a> &bull;
+  <a href="https://www.paradedb.com/docs/start/introduction">Docs</a> &bull;
   <a href="https://paradedb.com/slack/">Community</a> &bull;
   <a href="https://paradedb.com/blog/">Blog</a> &bull;
-  <a href="https://paradedb.com/docs/changelog/">Changelog</a>
+  <a href="https://www.paradedb.com/docs/project/changelog">Changelog</a>
 </h3>
 
 ---
 
-You want better search, not the burden of Elasticsearch.
+When queries get too slow, developers usually reach for systems like Elasticsearch. [ParadeDB](https://paradedb.com) makes text and vector search, filters, facets, and joins fast in Postgres.
 
-[ParadeDB](https://paradedb.com) is the modern Elasticsearch alternative built as a **Postgres extension**. It adds full-text search, vector retrieval, and aggregations directly to PostgreSQL — no second system required.
-
-Because ParadeDB is just Postgres, it can run as a logical replica of any managed Postgres instance or be installed within any self-hosted Postgres cluster. No new infrastructure, no sync pipelines, no eventual consistency.
+Built as a Postgres extension, ParadeDB pairs Postgres' transactional storage with a unified index combining inverted, vector, and columnar data structures. Keep your application data in one place and query it with standard SQL, with ACID transactions and the Postgres tools you already use. No Elasticsearch. Zero ETL.
 
 ## 🚀 Getting Started
 
-- [Installation guide](https://paradedb.com/docs/documentation/getting-started/install)
-- [Architecture overview](https://paradedb.com/docs/welcome/architecture)
-- [Roadmap](https://paradedb.com/docs/welcome/roadmap)
-- [Full documentation](https://paradedb.com/docs)
+- [Installation guide](https://www.paradedb.com/docs/start/install)
+- [Architecture overview](https://www.paradedb.com/docs/concepts/architecture)
+- [Roadmap](https://www.paradedb.com/docs/project/roadmap)
+- [Full documentation](https://www.paradedb.com/docs/start/introduction)
 
 ## 🤝 Who's Using ParadeDB?
 
