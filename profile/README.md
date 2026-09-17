@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <b>Search without a second system.</b><br/>
+  <b>Just use Postgres.</b><br/>
   One Postgres for your application data, full-text search, vector retrieval, and aggregations.
 </p>
 
@@ -24,11 +24,11 @@
 
 ---
 
-You want better search, not the burden of Elasticsearch.
+Search belongs with your application data.
 
-[ParadeDB](https://paradedb.com) is the modern Elasticsearch alternative built as a **Postgres extension**. It adds full-text search, vector retrieval, and aggregations directly to PostgreSQL — no second system required.
+When queries get too slow, developers usually reach for systems like Elasticsearch. [ParadeDB](https://paradedb.com) makes text and vector search, filters, facets, and joins fast in Postgres.
 
-Because ParadeDB is just Postgres, it can run as a logical replica of any managed Postgres instance or be installed within any self-hosted Postgres cluster. No new infrastructure, no sync pipelines, no eventual consistency.
+Built as a **Postgres extension**, ParadeDB pairs Postgres' transactional storage with a unified index combining inverted, vector, and columnar data structures. Keep your application data in one place and query it with standard SQL, with ACID transactions and the Postgres tools you already use. No Elasticsearch. Zero ETL.
 
 ## 🚀 Getting Started
 
@@ -39,7 +39,7 @@ Because ParadeDB is just Postgres, it can run as a logical replica of any manage
 
 ## 🤝 Who's Using ParadeDB?
 
-Companies use ParadeDB to replace Elasticsearch, OpenSearch, and custom search stacks while keeping Postgres as their system of record. Explore [customer stories](https://paradedb.com/customers) to learn more.
+Companies like Modern Treasury, Bilt, and Alibaba use ParadeDB to do more with Postgres. Explore [customer stories](https://paradedb.com/customers) to learn more.
 
 ## 🌱 Contributing
 
