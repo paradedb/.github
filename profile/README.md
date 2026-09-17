@@ -24,11 +24,9 @@
 
 ---
 
-Search belongs with your application data.
-
 When queries get too slow, developers usually reach for systems like Elasticsearch. [ParadeDB](https://paradedb.com) makes text and vector search, filters, facets, and joins fast in Postgres.
 
-Built as a **Postgres extension**, ParadeDB pairs Postgres' transactional storage with a unified index combining inverted, vector, and columnar data structures. Keep your application data in one place and query it with standard SQL, with ACID transactions and the Postgres tools you already use. No Elasticsearch. Zero ETL.
+Built as a Postgres extension, ParadeDB pairs Postgres' transactional storage with a unified index combining inverted, vector, and columnar data structures. Keep your application data in one place and query it with standard SQL, with ACID transactions and the Postgres tools you already use. No Elasticsearch. Zero ETL.
 
 ## 🚀 Getting Started
 
@@ -39,7 +37,7 @@ Built as a **Postgres extension**, ParadeDB pairs Postgres' transactional storag
 
 ## 🤝 Who's Using ParadeDB?
 
-Companies like Modern Treasury, Bilt, and Alibaba use ParadeDB to do more with Postgres. Explore [customer stories](https://paradedb.com/customers) to learn more.
+Companies use ParadeDB to replace Elasticsearch, OpenSearch, and custom search stacks while keeping Postgres as their system of record. Explore [customer stories](https://paradedb.com/customers) to learn more.
 
 ## 🌱 Contributing
 
