@@ -51,7 +51,7 @@ Join the ParadeDB community to ask questions, share ideas, and help shape the ro
 
 ## 🖥️ Careers
 
-Want to work on Postgres internals, search engines, and distributed systems? Reach out at [hello@paradedb.com](mailto:hello@paradedb.com) with your resume or GitHub profile.
+Want to work on Postgres internals, search engines, and distributed systems? Reach out at [careers@paradedb.com](mailto:careers@paradedb.com) with your resume or GitHub profile.
 
 ## 💬 Contact
 
