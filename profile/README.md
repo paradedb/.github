@@ -30,6 +30,8 @@ Built as a Postgres extension, ParadeDB pairs Postgres' transactional storage wi
 
 ## 🚀 Getting Started
 
+[ParadeDB Cloud](https://app.paradedb.com) is now available in private preview. Sign up to use ParadeDB without managing infrastructure.
+
 - [Installation guide](https://www.paradedb.com/docs/start/install)
 - [Architecture overview](https://www.paradedb.com/docs/concepts/architecture)
 - [Roadmap](https://www.paradedb.com/docs/project/roadmap)
