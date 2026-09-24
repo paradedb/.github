@@ -30,9 +30,7 @@ Built as a Postgres extension, ParadeDB pairs Postgres' transactional storage wi
 
 ## 🚀 Getting Started
 
-- [Introduction](https://www.paradedb.com/docs/start/introduction)
-- [Getting Started](https://www.paradedb.com/docs/start/install)
-- [Deploy](https://www.paradedb.com/docs/operate/deploy/overview)
+Read our [architecture overview](https://www.paradedb.com/docs/concepts/architecture) to learn how ParadeDB works. When you're ready, get started locally with [Docker](https://www.paradedb.com/docs/start/install) or let us run it for you with [ParadeDB Cloud](https://app.paradedb.com), now available in private preview.
 
 ## 🤝 Who's Using ParadeDB?
 
